@@ -1,0 +1,18 @@
+# frontend
+frontend/node_modules
+
+# backend
+backend/target
+
+# eclipse
+.metadata
+.settings
+.project
+.classpath
+.factorypath
+
+# vscode
+.vscode
+
+# logs
+*.log
